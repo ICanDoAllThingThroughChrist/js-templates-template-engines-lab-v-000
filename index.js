@@ -7,3 +7,6 @@ function createPost (){
   //<span class="title">title</span></p></div>
 
 }
+function postComment (){
+  
+}
