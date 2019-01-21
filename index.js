@@ -1,9 +1,8 @@
 function createPost (){
-  function postComment() {
   let title = document.getElementById('title').value;
-  let comment = document.getElementById('commentText').value;
-  //insert comment into "comments" div in this format:
-  //<div class="comment"><p>comment</p><p>Posted By:
+  let poster = document.getElementById('posterText').value;
+  //insert poster into "posters" div in this format:
+  //<div class="poster"><p>poster</p><p>Posted By:
   //<span class="title">title</span></p></div>
 }
 }
