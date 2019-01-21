@@ -5,4 +5,3 @@ function createPost (){
   //<div class="poster"><p>poster</p><p>Posted By:
   //<span class="title">title</span></p></div>
 }
-}
